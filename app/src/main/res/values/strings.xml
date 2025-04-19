@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IOTrails</string>
+    <string name="circuitName">Circuit Name</string>
+    <string name="components">Components</string>
+</resources>
